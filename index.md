@@ -17,3 +17,7 @@ Something wrong — a date that doesn't match your council's website, a missing
 address, your council not covered yet? Email
 [rrkwoodruff@gmail.com](mailto:rrkwoodruff@gmail.com?subject=Wheelie%20support)
 and it will get fixed fast.
+
+---
+
+Wheelie is made by **Lockline Studio Ltd**, registered in England & Wales.
