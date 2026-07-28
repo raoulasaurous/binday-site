@@ -41,4 +41,4 @@ from us because we hold nothing.
 
 ## Contact
 
-Questions: [rrkwoodruff@gmail.com](mailto:rrkwoodruff@gmail.com)
+Questions: [support@wheelie.day](mailto:support@wheelie.day)

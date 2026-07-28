@@ -15,7 +15,7 @@ home-screen widget, and Siri support.
 
 Something wrong — a date that doesn't match your council's website, a missing
 address, your council not covered yet? Email
-[rrkwoodruff@gmail.com](mailto:rrkwoodruff@gmail.com?subject=Wheelie%20support)
+[support@wheelie.day](mailto:support@wheelie.day?subject=Wheelie%20support)
 and it will get fixed fast.
 
 ---
