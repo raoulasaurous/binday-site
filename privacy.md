@@ -1,8 +1,8 @@
-# BinDay Privacy Policy
+# Wheelie Privacy Policy
 
 _Last updated: 28 July 2026_
 
-BinDay is built to know as little about you as possible.
+Wheelie is built to know as little about you as possible.
 
 ## What the app does with your data
 
