@@ -39,6 +39,13 @@ Each service's own privacy policy governs its handling of those requests.
 Delete the app and everything it stored is gone. There is nothing to request
 from us because we hold nothing.
 
+## Support emails
+
+If you email support (including via the app's "report a problem" form), we
+receive your email address and whatever you chose to include in the message.
+It's used only to help with your report, kept only in our mailbox, and never
+shared or added to any list.
+
 ## Contact
 
 Questions: [support@wheelie.day](mailto:support@wheelie.day)
