@@ -8,8 +8,8 @@ home-screen widget, and Siri support.
   are already included.
 - **No accounts, no tracking, no servers.** Your data stays on your phone —
   see the [privacy policy](privacy).
-- Councils supported so far: Cambridge, South Cambridgeshire, Sheffield,
-  Camden, Haringey, Dover — more on the way.
+- **133 UK councils covered** — around 40% of the country by population, with
+  more added regularly. [See the full list](councils).
 
 ## Support
 
@@ -20,4 +20,5 @@ and it will get fixed fast.
 
 ---
 
-Wheelie is made by **Lockline Studio Ltd**, registered in England & Wales.
+Wheelie is made by [**Lockline Studio Ltd**](https://locklinestudio.com), a
+small independent software studio registered in England & Wales.
