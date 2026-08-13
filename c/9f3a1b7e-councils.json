@@ -1,0 +1,14 @@
+{
+  "portal": [],
+  "azure": [],
+  "statuses": [],
+  "notices": [
+    {
+      "gss": "E08000025",
+      "title": "Bin strike \u2014 collections are disrupted",
+      "message": "Birmingham's waste workers have been on strike since March 2025. The dates below are the council's official schedule, but real collections can run late or be missed. Check birmingham.gov.uk for the latest on your road.",
+      "severity": "warning",
+      "expires": "2026-09-15"
+    }
+  ]
+}
